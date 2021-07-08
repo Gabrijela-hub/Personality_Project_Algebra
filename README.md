@@ -41,4 +41,4 @@ The goal was to predict if a respondent is in the top 5% on the neuroticism dime
 
 ## Launch
  
-The code file can run in either Jupyter Notebook or Google Colaboratory. To access data, make a copy of the database on your device. 
+The code file can run in either Jupyter Notebook or Google Colaboratory.
