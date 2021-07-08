@@ -15,15 +15,15 @@ Each dimension is described by 10 items (see in Codebook) and some need to be re
 
 The code deals with some data cleaning and wrangling in order to make it suitable for three main components of data analysis.
 
-Time spent per item in each dimension
+1. Time spent per item in each dimension
 
 The average time per item per dimension is displayed in a line chart. There is a trend of reduction in time needed for respondents to give answers as the inventory progresses.
 
-Respondents’ result on each dimansion
+2. Respondents’ result on each dimansion
 
 The score on each personality dimension is calculated as a mean of sums on item answers for that dimension. Distribution for each dimension can be seen in a box and whisker plot. Correlations between the dimensions are visualized through a heat map.
 
-Logistic regression
+3. Logistic regression
 
 The goal was to predict if a respondent is in the top 5% on the neuroticism dimension using the remaining four personality dimensions. Neuroticism was chosen as high scores on this dimension can be recognized as a risk factor for psychopathology and has been shown to have a solid biological basis. The confusion matrix is presented through percentages on a heat map.
 
