@@ -5,12 +5,12 @@ Introduction course in Data Science project solution
 Data for this project can be found at: https://drive.google.com/drive/folders/1otfejbiwkHbfou9v0DruVhYP2iJo-9R5?usp=sharing
 Original data found at: https://www.kaggle.com/tunguz/big-five-personality-test
 
-# Introduction
+## Introduction
 
 This data set contains answers on IPIP 50 personality inventory. 50 items measure 5 personality dimensions: Extraversion, Neuroticism, Agreeableness, Conscientiousness, and Openness.
 Each dimension is described by 10 items (see in Codebook) and some need to be reverse coded in order to get a proper result for every dimension. The data set also contains time in milliseconds for every item, denoting how much time the person spent on every item.
 
-# Data analyses
+## Data analyses
 
 The code deals with some data cleaning and wrangling in order to make it suitable for three main components of data analysis.
 
@@ -26,7 +26,7 @@ Logistic regression
 
 The goal was to predict if a respondent is in the top 5% on the neuroticism dimension using the remaining four personality dimensions. Neuroticism was chosen as high scores on this dimension can be recognized as a risk factor for psychopathology and has been shown to have a solid biological basis. The confusion matrix is presented through percentages on a heat map.
 
-# Technologies
+## Technologies
 
 Python
 Version 3.8.5
