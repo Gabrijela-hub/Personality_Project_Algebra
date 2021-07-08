@@ -2,9 +2,9 @@
 Introduction course in Data Science project solution
 
 ## Data
-Data for this project can be found at: https://drive.google.com/drive/folders/1otfejbiwkHbfou9v0DruVhYP2iJo-9R5?usp=sharing
+Data for this project can be found at this [Google Drive folder](https://drive.google.com/drive/folders/1otfejbiwkHbfou9v0DruVhYP2iJo-9R5?usp=sharing)
 
-Original data found at: https://www.kaggle.com/tunguz/big-five-personality-test
+Original data found at [Kaggle](https://www.kaggle.com/tunguz/big-five-personality-test)
 
 ## Introduction
 
@@ -39,6 +39,10 @@ The goal was to predict if a respondent is in the top 5% on the neuroticism dime
 * Scikit Learn
 * Seaborn
 
+3. SQL Server 2019
+
 ## Launch
  
 The code file can run in either Jupyter Notebook or Google Colaboratory.
+
+To setup database, download `Algebra_Personality_Database` backup file from [Google Drive](https://drive.google.com/drive/folders/1otfejbiwkHbfou9v0DruVhYP2iJo-9R5?usp=sharing) and restore it in Microsoft SQL Management Studio.
