@@ -30,14 +30,14 @@ The goal was to predict if a respondent is in the top 5% on the neuroticism dime
 ## Technologies
 
 1. Python
-*Version 3.8.5
+* Version 3.8.5
 
 
 2. Libraries: 
-*Pandas
-*Numpy
-*Scikit Learn
-*Seaborn
+* Pandas
+* Numpy
+* Scikit Learn
+* Seaborn
 
 ## Launch
  
