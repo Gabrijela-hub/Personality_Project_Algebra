@@ -1,4 +1,4 @@
-# Personality_Project_Algebra
+# Personality Project Algebra
 Introduction course in Data Science project solution
 
 ## Data
